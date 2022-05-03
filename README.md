@@ -1,106 +1,65 @@
 # Agile-2022
-|
 
-# **Practical Project - Iteration 1**
+## **Practical Project - Iteration 1**
 
-# Group Meeting Report
+## Group Meeting Report
 
-|
 
-# **Notice of Meeting and Agenda**
- |
-### Date 15/2/22
+## **Notice of Meeting and Agenda**
+ 
+#### Date 15/2/22
 
-### Time 2:35pm
+#### Time 2:35pm
 
-### Location EIT Taradale
- |
-| --- | --- |
+#### Location EIT Taradale
 
-|
- |
-| --- |
-|
-## Sponsor:
- | Noor Alani |
-## Name of Group:
- | Group 15 |
-|
-## Group Lead:
- | Alex Borawski |
-## Note taker:
- | Joost Verhoeven |
-| **Attendees:** | Alex Borawski, Jordyn Hanekom, Joost Verhoeven |
-| **Absent:** | N/A |
-| **Please bring:** | Laptop |
-| **Agenda items:** |
+### Sponsor:
+  Noor Alani 
+### Name of Group:
+  Group 15 
+### Group Lead:
+  Alex Borawski 
+### Note taker:
+  Joost Verhoeven 
+  
+**Attendees:**  Alex Borawski, Jordyn Hanekom, Joost Verhoeven 
+
+**Absent:**  N/A 
+
+**Please bring:**  Laptop 
+
+**Agenda items:** 
 1. Filling out group meeting report
 2. Filing out stakeholder register
- |
+## Minutes
 
-# Minutes
+| Agenda Item 1: | Presenter:  | 
+| --- | --- |
+| Filling out group meeting report | Alex Borawski |
 
-|
-## Agenda Item 1:
- | Filling out group meeting report
- |
-## Presenter:
- | Alex Borawski |
-| --- | --- | --- | --- |
+##### Discussion: We think that it&#39;s important to download the group meeting report template as an easy way to record down our meetings every week
 
-#### Discussion: We think that it&#39;s important to download the group meeting report template as an easy way to record down our meetings every week
+##### Conclusions: Download the group meeting report template use it to record our weekly meetings for iteration one
 
-#### Conclusions: Download the group meeting report template use it to record our weekly meetings for iteration one
-
-####
-
-
-|
-## Action items
- |
-## Person responsible
- |
-## Deadline
- |
+|Action items|Personal responsible|Deadline|
 | --- | --- | --- |
-|
-- Download group meeting report (GMR)
- | Joost Verhoeven | 22/2/22 |
-| --- | --- | --- |
-|
-- Complete the GMR
- | Joost Verhoeven | 22/2/22 |
-
-|
-## Agenda Item 2:
- | Stakeholder Register |
-## Presenter:
- | Jordyn Hanekom |
-| --- | --- | --- | --- |
+|Download group meeting report (GMR)| Joost Verhoeven| 22/2/22 |
+| Complete the GMR| Joost Verhoeven | 22/2/22|
+ 
+ ---
+ 
+| Agenda Item 2: | Presenter: |
+| --- | --- |
+| Stakeholder Register | Jordyn Hanekom |
 
 #### Discussion: We think it would be helpful to download the stakeholder register to use as a way to record all the stakeholders involved
 
 #### Conclusions: Download the stakeholder register. Use it to record all the stakeholders involved
 
-|
-## Action items
- |
-## Person responsible
- |
-## Deadline
- |
+| Action items| Personal responsible| Deadline|
 | --- | --- | --- |
-|
-- Download the register
- | Jordyn Hanekom | 22/2/22 |
-| --- | --- | --- |
-|
-- Complete the register
- | Jordyn Hanekom | 22/2/22 |
-|
- |
- |
- |
+| Download the register | Jordyn Hanekom | 22/2/22 |
+| Complete the register | Jordyn Hanekom | 22/2/22 |
 
 # Other Information
 
@@ -113,4 +72,3 @@ Shareholder Register template.docx
 #### Date of next meeting:
 
 15/03/2022
-
