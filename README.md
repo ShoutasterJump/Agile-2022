@@ -108,7 +108,7 @@ Shareholder Register template.docx
 |$144,000|
 
 
-| **GOALS AND MOTIVATIONS** | **CHALLENGES AND OBSTACLES** | **Frustrations** |
+| **GOALS AND MOTIVATIONS** | **CHALLENGES AND OBSTACLES** | **FRUSTRATIONS** |
 | --- | --- | --- |
 |- To help people who have lost their items recover them|- Finding ways to identify stolen goods online|- When it is hard to find what he is looking for|
 |- Having a history of items that he is looking at to determine if the item is ill-gotten|- Finding websites willing to comply to law enforcement|- Lack of clear and descriptive detail on websites he is looking at|
@@ -126,3 +126,45 @@ Shareholder Register template.docx
 | https://www.yourcelebritymagazines.com/collections/benedict-cumberbatch |
 | **WEBSITES** |
 |https://en.wikipedia.org/wiki/Benedict\_Cumberbatch |
+
+## Persona 2 - Jerry Lee Miller
+
+|![Imgur](https://i.imgur.com/AuHfOos.png)|
+| --- |
+| **QUOTATION** |
+| I consider myself really lucky and I always have done. My approach is that if I know I&#39;m relaxed and happy, then I will do my best work. |
+| **NAME** |
+| Jonny Lee Miller |
+| **AGE** |
+| 49 |
+| **GENDER** |
+| Male |
+| **LOCATION** |
+| London |
+| **OCCUPATION** |
+| Criminal |
+| **JOB TITLE** |
+| Online scammer |
+| **HIGHEST LEVEL OF EDUCATION** |
+| High School |
+| **ANNUAL INCOME** |
+|$84,000 |
+ 
+| **GOALS AND MOTIVATIONS** | **CHALLENGES AND OBSTACLES** | **FRUSTRATIONS** |
+| --- | --- | --- |
+|- To steal as much from people as possible|- Finding ways trick people into buying fake items/sending items for free|- When a website's security system is too difficult to break|
+|- Using false info to tricky people into giving anyway money|- Identifying ways to bypass security system in place to prevent scamming|- Too many requirements to buy/sell things|
+|- Find ways to get past secure measures to keep scamming| |- Active moderators preventing scamming|
+
+| **SOURCES OF INFORMATION** |
+| --- |
+| **BOOKS** |
+|Mansfield Park |
+|**BLOGS** |
+| https://fuckingyeahjonnyleemiller.tumblr.com/ |
+| **CONFERENCES** |
+| https://www.pinterest.nz/pin/35325178313353412/ |
+| **MAGAZINES** |
+| https://people.com/tag/jonny-lee-miller/ |
+| **WEBSITES** |
+| https://en.wikipedia.org/wiki/Jonny\_Lee\_Miller |
