@@ -1,10 +1,5 @@
 # Agile-2022
 |
-**Note:**
-
-1. Please make sure you complete this Report related to each meeting for your Practical Project – Iteration 1 below.
-
-2. Once completed, convert this content to readme.md (GitHub).
 
 # **Practical Project - Iteration 1**
 
