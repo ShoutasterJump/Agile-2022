@@ -168,3 +168,45 @@ Shareholder Register template.docx
 | https://people.com/tag/jonny-lee-miller/ |
 | **WEBSITES** |
 | https://en.wikipedia.org/wiki/Jonny\_Lee\_Miller |
+
+## Persona 3 - Robert Downey Jr.
+
+| ![Imgur](https://i.imgur.com/D65SzUA.png)|
+| --- |
+| **QUOTATION** |
+| The higher the stakes, the happier I am, the better I will be.|
+| **NAME** |
+| Robert Downey Jr,. |
+| **AGE** |
+| 56 |
+| **GENDER** |
+| Male |
+| **LOCATION** |
+| Manhattan, New York, United States |
+| **OCCUPATION** |
+| Entertainment |
+| **JOB TITLE** |
+| Actor |
+| **HIGHEST LEVEL OF EDUCATION** |
+| Santa Monica High School |
+| **ANNUAL INCOME** |
+| US$300 Million |
+
+| **GOALS AND MOTIVATIONS** | **CHALLENGES AND OBSTACLES** | **FRUSTRATIONS** |
+| --- | --- | --- |
+|- Wants to maintain a healthy work life balance|- Little patience especially with load times|- Slow Download times|
+|- Finding and sharing new things|- Loses glasses often, cannot read without them |- Receiving poor results from good marketing campaigns|
+|- To be able to narrow down options quickly | |- Losing his glasses and being unable to zoom in on a webpage|
+
+|**SOURCES OF INFORMATION** |
+| --- |
+| **BOOKS** |
+|Don Quixote - Robert Downey Jr: The Biography |
+| **BLOGS** |
+|[htthttps://dailyrobertdowneyjr.tumblr.com/](https://dailyrobertdowneyjr.tumblr.com/)|
+|**CONFERENCES** |
+|https://www.pinterest.nz/pin/robert-downey-jr-press-conference-for-iron-man-3-in-south-korea--538532067912037093/ |
+|**MAGAZINES** |
+|[https://www.gq.com/story/robert-downey-jr-gq-style-cover-story](https://www.gq.com/story/robert-downey-jr-gq-style-cover-story) https://www.gq.com/about/robert-downey-jr |
+| **WEBSITES** |
+| https://en.wikipedia.org/wiki/Robert\_Downey\_Jr. |
