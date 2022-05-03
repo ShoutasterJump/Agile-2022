@@ -83,3 +83,46 @@ Shareholder Register template.docx
 |**Jordyn Hanekom** |Developer |Developer | Phone: +64554390026 Email: bjames@company.nz | Internal | ![Imgur](https://i.imgur.com/FXkyIKp.png) | ![Imgur](https://i.imgur.com/aXQGoF3.png) |5% faster completion time |
 |**Patrick Smith** |Accountant | - | Phone: +64555783022Email: psmith@company.nz | Internal | ![Imgur](https://i.imgur.com/QmNCKgq.png) | ![Imgur](https://i.imgur.com/QmNCKgq.png) |
 |**Joost Verhoeven** |Developer |Developer | Phone: +64695860344Email: jverh@company.nz | Internal | ![Imgur](https://i.imgur.com/FXkyIKp.png) | ![Imgur](https://i.imgur.com/aXQGoF3.png)|
+
+## Persona 1 - Benedict Cumberbatch
+
+| ![Imgur](https://i.imgur.com/QohaNDr.png) |
+| --- |
+| **QUOTATION** |
+| Fear is wisdom in the face of danger. It is nothing to be ashamed of. |
+| **NAME** |
+| Benedict Cumberbatch |
+| **AGE** |
+| 45 |
+| **GENDER** |
+| Male |
+| **LOCATION** |
+| London |
+| **OCCUPATION** |
+| Law Enforcement |
+| **JOB TITLE** |
+| Detective |
+| **HIGHEST LEVEL OF EDUCATION** |
+| Diploma |
+| **ANNUAL INCOME** |
+|$144,000|
+
+
+| **GOALS AND MOTIVATIONS** | **CHALLENGES AND OBSTACLES** | **Frustrations** |
+| --- | --- | --- |
+|- To help people who have lost their items recover them|- Finding ways to identify stolen goods online|- When it is hard to find what he is looking for|
+|- Having a history of items that he is looking at to determine if the item is ill-gotten|- Finding websites willing to comply to law enforcement|- Lack of clear and descriptive detail on websites he is looking at|
+|- To be able to quickly and effectively work with customer service to solve problems| |- No ability to get help in any form (FAQs, Customer Service, Guides, etc)|
+
+| **SOURCES OF INFORMATION** |
+| --- |
+| **BOOKS** |
+| Benedict Cumberbatch: The Biography |
+| **BLOGS** |
+| https://cumberbum.tumblr.com/ |
+| **CONFERENCES** |
+|https://twitter.com/i/events/1433573376321261569?lang=en |
+| **MAGAZINES** |
+| https://www.yourcelebritymagazines.com/collections/benedict-cumberbatch |
+| **WEBSITES** |
+|https://en.wikipedia.org/wiki/Benedict\_Cumberbatch |
