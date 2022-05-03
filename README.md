@@ -210,3 +210,7 @@ Shareholder Register template.docx
 |[https://www.gq.com/story/robert-downey-jr-gq-style-cover-story](https://www.gq.com/story/robert-downey-jr-gq-style-cover-story) https://www.gq.com/about/robert-downey-jr |
 | **WEBSITES** |
 | https://en.wikipedia.org/wiki/Robert\_Downey\_Jr. |
+
+## Gnatt Chart
+
+Our Gnatt Chart can be found here : [Project Gnatt chart](https://github.com/ShoutasterJump/Agile-2022/blob/main/Agile%20Pratical%20Project%20-%20Gantt%20Chart%20.xlsx)
