@@ -72,3 +72,14 @@ Shareholder Register template.docx
 #### Date of next meeting:
 
 15/03/2022
+
+## Stakeholder Registry
+
+|**Name** |**Title** |**Role** |**Contact** |**Category** |**Interest** |**Influence** |**Requirements** |**Communication** |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|**Noor Alani** | Security Manager |Sponsor | Phone: +64345645357 Email: nalani@company.nz | Internal | ![Imgur](https://i.imgur.com/FXkyIKp.png) | ![Imgur](https://i.imgur.com/FXkyIKp.png) | 10% return on investments |Weekly Via Email |
+|**Alex Borawski** | Senior Developer |Developer | Phone: +64796856787 Email: aboraws@company.nz | Internal | ![Imgur](https://i.imgur.com/FXkyIKp.png) | ![Imgur](https://i.imgur.com/aXQGoF3.png) | Security certificates |
+**Amy Ness** |CEO | - | Phone: +64202203947 Email: aness@company.nz | Internal | ![Imgur](https://i.imgur.com/QmNCKgq.png) | ![Imgur](https://i.imgur.com/FXkyIKp.png) |Overall Project Success |Monthly updates via email |
+|**Jordyn Hanekom** |Developer |Developer | Phone: +64554390026 Email: bjames@company.nz | Internal | ![Imgur](https://i.imgur.com/FXkyIKp.png) | ![Imgur](https://i.imgur.com/aXQGoF3.png) |5% faster completion time |
+|**Patrick Smith** |Accountant | - | Phone: +64555783022Email: psmith@company.nz | Internal | ![Imgur](https://i.imgur.com/QmNCKgq.png) | ![Imgur](https://i.imgur.com/QmNCKgq.png) |
+|**Joost Verhoeven** |Developer |Developer | Phone: +64695860344Email: jverh@company.nz | Internal | ![Imgur](https://i.imgur.com/FXkyIKp.png) | ![Imgur](https://i.imgur.com/aXQGoF3.png)|
