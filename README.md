@@ -4,7 +4,6 @@
 
 ## Group Meeting Report
 
-
 ## **Notice of Meeting and Agenda**
  
 #### Date 15/2/22
@@ -210,6 +209,97 @@ Shareholder Register template.docx
 |[https://www.gq.com/story/robert-downey-jr-gq-style-cover-story](https://www.gq.com/story/robert-downey-jr-gq-style-cover-story) https://www.gq.com/about/robert-downey-jr |
 | **WEBSITES** |
 | https://en.wikipedia.org/wiki/Robert\_Downey\_Jr. |
+
+## **Practical Project - Iteration 2**
+
+## Group Meeting Report
+
+## **Notice of Meeting and Agenda**
+
+#### Date 29/3/22
+
+#### Time 2:35pm
+
+#### Location EIT Taradale
+
+### Sponsor:
+ Noor Alani 
+### Name of Group:
+ Group 15
+### Group Lead:
+ Alex Borawski
+### Note taker:
+ Joost Verhoeven 
+ 
+ **Attendees:**  Alex Borawski, Jordyn Hanekom, Joost Verhoeven 
+ 
+ **Absent:**  N/A 
+ 
+ **Please bring:**  Laptop
+ 
+ **Agenda items:** 
+1. Create Gantt Chart
+2. Update Stakeholder Register
+3. Resource Requirement List
+## Minutes
+
+| Agenda Item 1: | Presenter: | 
+| --- | --- |
+| Create Gantt Chart | Alex Borawski |
+
+
+##### Discussion: We think that we should create a Gantt chart, to keep track of assigned tasks and manage our time better
+
+#### Conclusions: Download template and create detailed gantt chart using MS Excel
+
+|Action items| Personal responsible| Deadline|
+| --- | --- | --- |
+| Download the template | Alex Borawski | 12/4/22 |
+| Complete detailed chart | Alex Borawski | 12/4/22 |
+
+---
+
+| Agenda Item 2: | Presenter: |
+| --- | --- |
+| Update Stakeholder Register | Joost Verhoeven |
+
+##### Discussion: We think it&#39;s important to update the stakeholder register after the gantt chart is complete to accurately show who is doing what
+
+#### Conclusions: Assign tasks identified once gantt chart is complete, and record information to github boards
+
+| Action items | Personal responsible | Deadline |
+| --- | --- | --- |
+| Assign tasks | Joost Verhoeven | 12/4/22 |
+| Record info into github boards | Joost Verhoeven | 12/4/22 |
+
+---
+
+| Agenda Item 3: | Presenter : |
+| --- | --- |
+| Resource Requirement List | Jordyn Hanekom |
+
+#### Discussion: We think it&#39;s important to write down a resource requirement list so we an get a better idea of the resources that are needed
+
+#### Conclusions: Complete resource requirement list for the project, explain why you need for these resources
+
+| Action items | Personal responsible | Deadline |
+| --- | --- | --- |
+| Complete resource requirement list | Jordyn Hanekom | 12/4/22 |
+| Explain reasoning | Jordyn Hanekom | 12/4/22 |
+
+# Other Information
+
+#### Resources:
+
+Group Meeting Report template.docx
+
+Resource Needs Template.docx
+
+Agile Gantt chart.xlsx
+
+#### Date of next meeting:
+
+3/5/22
 
 ## Gnatt Chart
 
