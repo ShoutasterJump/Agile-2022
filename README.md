@@ -12,14 +12,9 @@
 
 #### Location EIT Taradale
 
-### Sponsor:
-  Noor Alani 
-### Name of Group:
-  Group 15 
-### Group Lead:
-  Alex Borawski 
-### Note taker:
-  Joost Verhoeven 
+| Sponsor: | Name of Group: | Group Lead: | Note taker: |
+| --- | --- | --- | --- |
+| Noor Alani | Group 15 | Alex Borawski | Joost Verhoeven |
   
 **Attendees:**  Alex Borawski, Jordyn Hanekom, Joost Verhoeven 
 
@@ -232,14 +227,9 @@ Shareholder Register template.docx
 
 #### Location EIT Taradale
 
-### Sponsor:
- Noor Alani 
-### Name of Group:
- Group 15
-### Group Lead:
- Alex Borawski
-### Note taker:
- Joost Verhoeven 
+| Sponsor: | Name of Group: | Group Lead: | Note taker: |
+| --- | --- | --- | --- |
+| Noor Alani | Group 15 | Alex Borawski | Joost Verhoeven |
  
  **Attendees:**  Alex Borawski, Jordyn Hanekom, Joost Verhoeven 
  
@@ -361,14 +351,9 @@ Table 1: Resource needs for our project
 
 #### Location EIT Taradale
 
-### Sponsor:
-  Noor Alani 
-### Name of Group:
-  Group 15 
-## #Group Lead:
-  Alex Borawski 
-### Note taker:
-  Joost Verhoeven 
+| Sponsor: | Name of Group: | Group Lead: | Note taker: |
+| --- | --- | --- | --- |
+| Noor Alani | Group 15 | Alex Borawski | Joost Verhoeven |
 
 **Attendees:**  Alex Borawski, Jordyn Hanekom, Joost Verhoeven 
 
