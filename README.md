@@ -72,6 +72,8 @@ Shareholder Register template.docx
 
 15/03/2022
 
+---
+
 ## Stakeholder Registry
 
 |**Name** |**Title** |**Role** |**Contact** |**Category** |**Interest** |**Influence** |**Requirements** |**Communication** |
@@ -82,6 +84,8 @@ Shareholder Register template.docx
 |**Jordyn Hanekom** |Developer |Developer | Phone: +64554390026 Email: bjames@company.nz | Internal | ![Imgur](https://i.imgur.com/FXkyIKp.png) | ![Imgur](https://i.imgur.com/aXQGoF3.png) |5% faster completion time |
 |**Patrick Smith** |Accountant | - | Phone: +64555783022Email: psmith@company.nz | Internal | ![Imgur](https://i.imgur.com/QmNCKgq.png) | ![Imgur](https://i.imgur.com/QmNCKgq.png) |
 |**Joost Verhoeven** |Developer |Developer | Phone: +64695860344Email: jverh@company.nz | Internal | ![Imgur](https://i.imgur.com/FXkyIKp.png) | ![Imgur](https://i.imgur.com/aXQGoF3.png)|
+
+---
 
 ## Persona 1 - Benedict Cumberbatch
 
@@ -126,6 +130,8 @@ Shareholder Register template.docx
 | **WEBSITES** |
 |https://en.wikipedia.org/wiki/Benedict\_Cumberbatch |
 
+---
+
 ## Persona 2 - Jerry Lee Miller
 
 |![Imgur](https://i.imgur.com/AuHfOos.png)|
@@ -168,6 +174,8 @@ Shareholder Register template.docx
 | **WEBSITES** |
 | https://en.wikipedia.org/wiki/Jonny\_Lee\_Miller |
 
+---
+
 ## Persona 3 - Robert Downey Jr.
 
 | ![Imgur](https://i.imgur.com/D65SzUA.png)|
@@ -209,6 +217,8 @@ Shareholder Register template.docx
 |[https://www.gq.com/story/robert-downey-jr-gq-style-cover-story](https://www.gq.com/story/robert-downey-jr-gq-style-cover-story) https://www.gq.com/about/robert-downey-jr |
 | **WEBSITES** |
 | https://en.wikipedia.org/wiki/Robert\_Downey\_Jr. |
+
+---
 
 ## **Practical Project - Iteration 2**
 
@@ -301,13 +311,19 @@ Agile Gantt chart.xlsx
 
 3/5/22
 
+---
+
 ## Gnatt Chart
 
 Our Gnatt Chart can be found here : [Project Gnatt chart](https://github.com/ShoutasterJump/Agile-2022/blob/main/Agile%20Pratical%20Project%20-%20Gantt%20Chart%20.xlsx)
 
+---
+
 ## Stakeholder Register update
 
 Please check the Stakeholder Register, as well as the Github Boards, to see the updates.
+
+---
 
 ## Resource Requirement List
 
@@ -330,3 +346,96 @@ Table 1: Resource needs for our project
 | 2.3 | Begin to implement decisions | Workshop | 2 Hours | 3x30$x2 = 180$ |
 | 2.4 | Write up second iteration | Workshop | 2 hours | 3x30$x2 = 180$ |
 | Total | | | | 720$ NZ |
+
+---
+
+## **Practical Project - Iteration 3**
+
+## Group Meeting Report
+
+## **Notice of Meeting and Agenda**
+
+#### Date 3/5/22
+
+#### Time 2:35pm
+
+#### Location EIT Taradale
+
+### Sponsor:
+  Noor Alani 
+### Name of Group:
+  Group 15 
+## #Group Lead:
+  Alex Borawski 
+### Note taker:
+  Joost Verhoeven 
+
+**Attendees:**  Alex Borawski, Jordyn Hanekom, Joost Verhoeven 
+
+ **Absent:** N/A
+ 
+**Please bring:** Laptop 
+
+ **Agenda items:**
+1. Group Meeting Report
+2. Risk Register
+3. User Acceptance Testing
+## Minutes
+
+| Agenda Item 1: | Presenter: |
+| --- | --- |
+| Group Meeting Report | Joost Verhoeven |
+
+#### Discussion: We think we should download and continue to use the group meeting report template to easily record and write down our meetings each week
+
+#### Conclusions: Download the group meeting report template use it to record our weekly meetings for iteration three
+
+| Action items | Personal responsible | Deadline |
+| --- | --- | --- |
+| Download the template | Joost Verhoeven | 17/5/22 |
+| Complete Group Meeting Report | Joost Verhoeven | 17/5/22 |
+
+---
+
+| Agenda Item 2: | Presenter:|
+| --- | --- |
+| Risk Register | Jordyn Hanekom |
+
+#### Discussion: We think it&#39;s essential to identify the risks using the risk register template to recognize and manage the risks involved
+
+#### Conclusions: Download the template, and use it to identify the risks involved in the progress of our project
+
+| Action items| Personal responsible| Deadline |
+| --- | --- | --- |
+| Download the template | Jordyn Hanekom | 17/5/22 |
+| Indentify risks | Jordyn Hanekom | 17/5/22 |
+
+---
+
+| Agenda Item 3: | Presenter: |
+| --- | --- |
+| User Acceptance Testing | Alex Borawski |
+
+#### Discussion: We think it&#39;s important to do user testing to make sure our project is of good quality and to make sure it has minimal to no errors
+
+#### Conclusions: Compete the User Acceptance Test Results Template for the project, and carry out manual user testing to make sure the project management implementation is successful
+
+| Action items| Personal responsible| Deadline |
+| --- | --- | --- |
+| Download the template | Alex Borawski | 17/5/22 |
+| Carry out manual user testing | Alex Borawski | 17/5/22 |
+|Compete the User Acceptance Test Results Template | Alex Borawski | 17/5/22 |
+
+# Other Information
+
+#### Resources:
+
+Group Meeting Report template.docx
+
+risk register.docx
+
+User Acceptance Tests.xlsx
+
+#### Date of next meeting:
+
+N/A
