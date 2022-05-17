@@ -304,3 +304,29 @@ Agile Gantt chart.xlsx
 ## Gnatt Chart
 
 Our Gnatt Chart can be found here : [Project Gnatt chart](https://github.com/ShoutasterJump/Agile-2022/blob/main/Agile%20Pratical%20Project%20-%20Gantt%20Chart%20.xlsx)
+
+## Stakeholder Register update
+
+Please check the Stakeholder Register, as well as the Github Boards, to see the updates.
+
+## Resource Requirement List
+
+Table 1: Resource needs for our project
+
+| Deliverable  |  | Resource name | Amount of resource required in (hours) or (number of items) |Cost |
+| --- | --- | --- | --- | --- |
+| Task | Description   |
+| 1.0 | Hardware Requirements  | Laptops  | 3 laptops  | 3x1000$ = 3000$  |
+| 1.1 | Planning – prepare group meeting report | Team members meeting (workshop)  | 1 hours  | 3x30$ = 90$ |
+| 1.2 | Identify customer and project needs | Team members meeting (workshop)  | 2 hours | 3x30$x2 = 180$ |
+| 1.3 | Divide and complete required documentation | Individual completion | 2 hours | 3x30$x2 = 180$ |
+| 1.4 | Decide on Web hosting service | Team members meeting (workshop)  | 1 host | 10$ |
+| 1.5 | Write up first iteration | Team members meeting (workshop)  | 2 hours | 3x30$x2 = 180$ |
+| Total  |   |   |   | 3640$ NZ   |
+| Task | Description |
+| 2.0 | Prepare second group meeting report | Workshop | 1 Hours | 3x30$ = 90$ |
+| 2.1 | Complete all necessary documentation | To be completed individually | 2 Hours | 3x30$x2 = 180$ |
+| 2.2 | Decide on CMS | Workshop | 1 Hours | 3x30$ = 90$ |
+| 2.3 | Begin to implement decisions | Workshop | 2 Hours | 3x30$x2 = 180$ |
+| 2.4 | Write up second iteration | Workshop | 2 hours | 3x30$x2 = 180$ |
+| Total | | | | 720$ NZ |
