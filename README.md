@@ -215,6 +215,37 @@ Shareholder Register template.docx
 
 ---
 
+**Persona Reviews**
+
+Persona #1
+***Benedict Cumberbatch***
+
+On initial inspection, Benedict Cumberbatch looks like a very good user for our e-commerce website. Furthermore, he seems to be honest, upfront, and striving for a healthy, reputable marketplace. It seems he values the authenticity of items, and prefers clear and concise descriptions of the item being sold. Overall on initial inspection he comes across as someone who respects and values the law highly, and someone who wants an environment where all the users abide by the rules, laws, and policies put in place.
+
+On further examination, Benedict Cumberbatch continues to look like a very promising and helpful customer to any e-commerce website. He has clear intentions to help users and customer service teams determine and locate items which have been stolen or are unrightfully being sold. It&#39;s clear to see that he values a website&#39;s reputability and their ability to follow the law. He clearly finds it important to have an active and willing-to-help customer service team, to aid him in his goals and desires from the website. He finds it frustrating when it&#39;s hard to find what he is looking for, so it would be our job to make our website have an easy to use search/navigation feature.
+
+ Overall, I think Benedict Cumberbatch would be a great customer for our e-commerce website. To aid in his wishes, we would need to implement a concise and easy to use search feature, strong rules, regulations and policies, and an active customer service/admin team which cracks down on users who do not abide by the terms of service of the website. This will create an overall reputable marketplace which will make him a recurring customer.
+
+Persona #2
+***Jonny Lee Miller***
+
+At first glance, Tommy Lee Miller does not look like a promising customer for our website. He seems to have bad intentions, with the goal to scam and cheat others. He seems one to be untrustworthy, deceitful, and selfish, with a goal of personal gain. Additionally it seems that he would take advantage of the features on the website and make the overall experience for other users an unsafe and negative one.
+
+ On deeper inspection, my initial thoughts are reaffirmed. He continues to look like an untrustworthy and hazardous user of the website, his intentions are clear, and one based on personal gain. He has goals to take advantage of the marketplace, scam, and steal as much as possible from the other users. His aim is to bypass security and anti-scamming measures, which frustrates him when that is difficult to do. Ideally he would want a website with low moderation, an easy to break security system, and a trouble-free buying and selling system which does not have a lot of requirements.
+
+ As a whole, someone like Johnny Lee Miller would not be a customer we want using our website. In order to combat users like him, we would need an active moderation team, and a top of the line security system. We would also need to make the process of buying and selling require extra steps and verifications to make it difficult for people like him to scam and take advantage of other users. Focusing on these features will create an overall safe area for all users alike to buy and sell items, along with making it difficult for those who have ill intent.
+
+Persona #3
+***Robert Downey Jr.***
+
+On first observation Robert Downey Jr. looks like your average user of an e-commerce website. He seems to be one with reasonable wishes and goals and comes across as an overall positive user to be using your website. Although he does seem to be impatient, a quick, reliable, and responsive website is very important to him.
+
+On further assessment, I continue to believe he would be a good user of the website. He finds websites with quick response/load times important to maintain a healthy work life balance and not feel like he is wasting time. He has the issue of losing his glasses often, this means he highly values a feature that improves visibility to help with his bad vision.
+
+ To summarize, Robert Downey Jr. continues to look like your average consumer of an e-commerce website. To fulfill his wishes, we would need a high performing and responsive server to help with download speeds, responsiveness, and load times. A good server would provide quick purchasing of items, which minimizes the time the user has to wait. We would also need to add a feature where the user can very easily zoom in and out, to help with his continued struggle of losing his glasses. This would not only help him, but other users who struggle with bad eyesight.
+ 
+---
+
 ## **Practical Project - Iteration 2**
 
 ## Group Meeting Report
