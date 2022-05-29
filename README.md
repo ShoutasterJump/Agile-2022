@@ -470,3 +470,21 @@ N/A
 | 6 | 26/4/22 | Scope creep | ![Imgur](https://i.imgur.com/aXQGoF3.png) | ![Imgur](https://i.imgur.com/vp85MIO.png) | ![Imgur](https://i.imgur.com/vp85MIO.png) | Project manager | Keep record of scope using charter or something similar and constantly refer back to it | Open | [link](https://www.projectmanager.com/blog/project-charter) |
 | 7 | 3/5/22 | Stakeholder action delays the project | ![Imgur](https://i.imgur.com/BBMpizG.png) | ![Imgur](https://i.imgur.com/vp85MIO.png) | ![Imgur](https://i.imgur.com/vp85MIO.png) | Project manager | Create and receive approval for a management plan based on stakeholder importance, check regularly to ensure it is managed well | Open | [link](https://www.projectengineer.net/how-to-develop-a-stakeholder-engagement-plan/) |
 | 8 | 10/3/22 | Key people fall ill/ are unavailable | ![Imgur](https://i.imgur.com/BBMpizG.png) | ![Imgur](https://i.imgur.com/BBMpizG.png) | ![Imgur](https://i.imgur.com/BBMpizG.png) | Project manager | Create a work from home plan | Open |[link](https://www.emerald.com/insight/content/doi/10.1108/JWAM-01-2021-0003/full/html#:~:text=Furthermore%2C%20five%20critical%20factors%20for,WFH%20mode%2C%20and%20organisational%20support.)|
+
+---
+
+**User Acceptance Test**
+
+| 27/05/2022 | 4:00 PM| Who: Alex Borawski | Application: Timups | |
+| --- | --- | --- | --- | --- |
+| ID | Scenario Title | Status | Scenario| Remarks|
+| 1 | Scrolling Through the Homepage| Pass| Page loaded and be able to be scrolled thorught to show all information on the page| The banner at the top of the page showed the same information on all 3 pages but otherwise good|
+| 2 | Get into a individual watch page| Failed| When on the main page or watches page, you can get into the indivdual page about a single watch | When you click on an individual watch, it links back to the main page|
+| 3 | Send a contact message| Pass| On the homepage, send a message to the creators| This worked well, even required us to have proper email format, but there was no confirmation to the user that it was sent |
+| 4  | Find out more info abou the watch products | Failed| Find out more about the features our watches have.| Same as scenario 2, the links just send you to the top of the home page|
+| 5  | See our social network pages| Failed| Get to our social media accounts from the home page| These link do not appear to be working, and jsut appears to refresh the page|
+| 6 | Read customer Testimonials| Pass| Read some of our customers testimonials on out home page| Simple and easy to do, just at the bottom of the page. Would consider removing the arrow if their are only two.|
+| 7 | View all of our watches | Failed| See all of our available watches on the Watches page| Although there appeared to be all of the available watches visable on the page, the "View all" button confused me when it just reloaded the page |
+| 8 | See you previous order(s)| Pass| Go see any previous orders you have made with us in the Order page | Clearly displayed any orders the user would have made, as well as all revelant information|
+| 9 | Track you order| Failed| Try and track your order to see where it currently is in the delivery process | This link also seemed to be broken and not do anything when I interacted with it|
+| 10| Request a return | Failed | Try to return one of the products that have been ordered| Again, this didnt appear to do anything. If was meant to email a return form to the user, there was no visual indication of that happening|
