@@ -1,4 +1,4 @@
-# Agile 2022#
+# Agile 2022 
 
 This is our ReadMe documentation
 
@@ -219,7 +219,7 @@ Shareholder Register template.docx
 
 ---
 
-## Persona Reviews ##
+## Persona Reviews
 
 Persona #1
 ***Benedict Cumberbatch***
@@ -462,7 +462,7 @@ N/A
 
 ---
 
-## Risk Register##
+## Risk Register
 
 | ID | Date raised | Risk description | Likelihood of the risk occurring | Impact if the risk occurs | Severity | Owner | Mitigating action | Status | Useful resources|
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -477,13 +477,13 @@ N/A
 
 ---
 
-## Intergrated Webiste##
+## Intergrated Webiste
 
 Here is a link to our Github pages: [Github Page](https://shoutasterjump.github.io/Agile-2022/)
 
 ---
 
-## User Acceptance Test##
+## User Acceptance Test
 
 | 27/05/2022 | 4:00 PM| Who: Alex Borawski | Application: Timups | |
 | --- | --- | --- | --- | --- |
