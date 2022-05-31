@@ -24,15 +24,15 @@
 **Agenda items:** 
 1. Filling out group meeting report
 2. Filing out stakeholder register
-## Minutes
+### Minutes
 
 | Agenda Item 1: | Presenter:  | 
 | --- | --- |
 | Filling out group meeting report | Alex Borawski |
 
-##### Discussion: We think that it&#39;s important to download the group meeting report template as an easy way to record down our meetings every week
+###### Discussion: We think that it&#39;s important to download the group meeting report template as an easy way to record down our meetings every week
 
-##### Conclusions: Download the group meeting report template use it to record our weekly meetings for iteration one
+###### Conclusions: Download the group meeting report template use it to record our weekly meetings for iteration one
 
 |Action items|Personal responsible|Deadline|
 | --- | --- | --- |
@@ -45,24 +45,24 @@
 | --- | --- |
 | Stakeholder Register | Jordyn Hanekom |
 
-#### Discussion: We think it would be helpful to download the stakeholder register to use as a way to record all the stakeholders involved
+##### Discussion: We think it would be helpful to download the stakeholder register to use as a way to record all the stakeholders involved
 
-#### Conclusions: Download the stakeholder register. Use it to record all the stakeholders involved
+##### Conclusions: Download the stakeholder register. Use it to record all the stakeholders involved
 
 | Action items| Personal responsible| Deadline|
 | --- | --- | --- |
 | Download the register | Jordyn Hanekom | 22/2/22 |
 | Complete the register | Jordyn Hanekom | 22/2/22 |
 
-# Other Information
+### Other Information
 
-#### Resources:
+###### Resources:
 
 Group Meeting Report template.docx
 
 Shareholder Register template.docx
 
-#### Date of next meeting:
+###### Date of next meeting:
 
 15/03/2022
 
@@ -214,7 +214,7 @@ Shareholder Register template.docx
 
 ---
 
-**Persona Reviews**
+## Persona Reviews ##
 
 Persona #1
 ***Benedict Cumberbatch***
@@ -245,17 +245,17 @@ On further assessment, I continue to believe he would be a good user of the webs
  
 ---
 
-## **Practical Project - Iteration 2**
+# **Practical Project - Iteration 2**
 
 ## Group Meeting Report
 
-## **Notice of Meeting and Agenda**
+### **Notice of Meeting and Agenda**
 
-#### Date 29/3/22
+##### Date 29/3/22
 
-#### Time 2:35pm
+##### Time 2:35pm
 
-#### Location EIT Taradale
+##### Location EIT Taradale
 
 | Sponsor: | Name of Group: | Group Lead: | Note taker: |
 | --- | --- | --- | --- |
@@ -280,7 +280,7 @@ On further assessment, I continue to believe he would be a good user of the webs
 
 ##### Discussion: We think that we should create a Gantt chart, to keep track of assigned tasks and manage our time better
 
-#### Conclusions: Download template and create detailed gantt chart using MS Excel
+##### Conclusions: Download template and create detailed gantt chart using MS Excel
 
 |Action items| Personal responsible| Deadline|
 | --- | --- | --- |
@@ -295,7 +295,7 @@ On further assessment, I continue to believe he would be a good user of the webs
 
 ##### Discussion: We think it&#39;s important to update the stakeholder register after the gantt chart is complete to accurately show who is doing what
 
-#### Conclusions: Assign tasks identified once gantt chart is complete, and record information to github boards
+##### Conclusions: Assign tasks identified once gantt chart is complete, and record information to github boards
 
 | Action items | Personal responsible | Deadline |
 | --- | --- | --- |
@@ -308,18 +308,18 @@ On further assessment, I continue to believe he would be a good user of the webs
 | --- | --- |
 | Resource Requirement List | Jordyn Hanekom |
 
-#### Discussion: We think it&#39;s important to write down a resource requirement list so we an get a better idea of the resources that are needed
+##### Discussion: We think it&#39;s important to write down a resource requirement list so we an get a better idea of the resources that are needed
 
-#### Conclusions: Complete resource requirement list for the project, explain why you need for these resources
+##### Conclusions: Complete resource requirement list for the project, explain why you need for these resources
 
 | Action items | Personal responsible | Deadline |
 | --- | --- | --- |
 | Complete resource requirement list | Jordyn Hanekom | 12/4/22 |
 | Explain reasoning | Jordyn Hanekom | 12/4/22 |
 
-# Other Information
+## Other Information
 
-#### Resources:
+##### Resources:
 
 Group Meeting Report template.docx
 
@@ -327,7 +327,7 @@ Resource Needs Template.docx
 
 Agile Gantt chart.xlsx
 
-#### Date of next meeting:
+##### Date of next meeting:
 
 3/5/22
 
@@ -369,17 +369,17 @@ Table 1: Resource needs for our project
 
 ---
 
-## **Practical Project - Iteration 3**
+# **Practical Project - Iteration 3**
 
 ## Group Meeting Report
 
-## **Notice of Meeting and Agenda**
+### **Notice of Meeting and Agenda**
 
-#### Date 3/5/22
+##### Date 3/5/22
 
-#### Time 2:35pm
+##### Time 2:35pm
 
-#### Location EIT Taradale
+##### Location EIT Taradale
 
 | Sponsor: | Name of Group: | Group Lead: | Note taker: |
 | --- | --- | --- | --- |
@@ -401,9 +401,9 @@ Table 1: Resource needs for our project
 | --- | --- |
 | Group Meeting Report | Joost Verhoeven |
 
-#### Discussion: We think we should download and continue to use the group meeting report template to easily record and write down our meetings each week
+##### Discussion: We think we should download and continue to use the group meeting report template to easily record and write down our meetings each week
 
-#### Conclusions: Download the group meeting report template use it to record our weekly meetings for iteration three
+##### Conclusions: Download the group meeting report template use it to record our weekly meetings for iteration three
 
 | Action items | Personal responsible | Deadline |
 | --- | --- | --- |
@@ -416,9 +416,9 @@ Table 1: Resource needs for our project
 | --- | --- |
 | Risk Register | Jordyn Hanekom |
 
-#### Discussion: We think it&#39;s essential to identify the risks using the risk register template to recognize and manage the risks involved
+##### Discussion: We think it&#39;s essential to identify the risks using the risk register template to recognize and manage the risks involved
 
-#### Conclusions: Download the template, and use it to identify the risks involved in the progress of our project
+##### Conclusions: Download the template, and use it to identify the risks involved in the progress of our project
 
 | Action items| Personal responsible| Deadline |
 | --- | --- | --- |
@@ -431,9 +431,9 @@ Table 1: Resource needs for our project
 | --- | --- |
 | User Acceptance Testing | Alex Borawski |
 
-#### Discussion: We think it&#39;s important to do user testing to make sure our project is of good quality and to make sure it has minimal to no errors
+##### Discussion: We think it&#39;s important to do user testing to make sure our project is of good quality and to make sure it has minimal to no errors
 
-#### Conclusions: Compete the User Acceptance Test Results Template for the project, and carry out manual user testing to make sure the project management implementation is successful
+##### Conclusions: Compete the User Acceptance Test Results Template for the project, and carry out manual user testing to make sure the project management implementation is successful
 
 | Action items| Personal responsible| Deadline |
 | --- | --- | --- |
@@ -441,9 +441,9 @@ Table 1: Resource needs for our project
 | Carry out manual user testing | Alex Borawski | 17/5/22 |
 |Compete the User Acceptance Test Results Template | Alex Borawski | 17/5/22 |
 
-# Other Information
+## Other Information
 
-#### Resources:
+##### Resources:
 
 Group Meeting Report template.docx
 
@@ -451,13 +451,13 @@ risk register.docx
 
 User Acceptance Tests.xlsx
 
-#### Date of next meeting:
+##### Date of next meeting:
 
 N/A
 
 ---
 
-**Risk Register**
+## Risk Register##
 
 | ID | Date raised | Risk description | Likelihood of the risk occurring | Impact if the risk occurs | Severity | Owner | Mitigating action | Status | Useful resources|
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -472,7 +472,7 @@ N/A
 
 ---
 
-**User Acceptance Test**
+## User Acceptance Test##
 
 | 27/05/2022 | 4:00 PM| Who: Alex Borawski | Application: Timups | |
 | --- | --- | --- | --- | --- |
