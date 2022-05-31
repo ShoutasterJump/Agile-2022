@@ -334,9 +334,9 @@ Agile Gantt chart.xlsx
 
 ---
 
-## Gnatt Chart
+## Gantt Chart
 
-Our Gnatt Chart can be found here : [Project Gnatt chart](https://github.com/ShoutasterJump/Agile-2022/blob/main/Agile%20Pratical%20Project%20-%20Gantt%20Chart%20.xlsx)
+Our Gantt Chart can be found here : [Project Gantt chart](https://github.com/ShoutasterJump/Agile-2022/blob/main/Agile%20Pratical%20Project%20-%20Gantt%20Chart%20.xlsx)
 
 ---
 
