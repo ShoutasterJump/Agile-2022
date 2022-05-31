@@ -1,16 +1,15 @@
-# Agile-2022
 
-## **Practical Project - Iteration 1**
+# **Practical Project - Iteration 1**
 
 ## Group Meeting Report
 
-## **Notice of Meeting and Agenda**
+### **Notice of Meeting and Agenda**
  
-#### Date 15/2/22
+##### Date 15/2/22
 
-#### Time 2:35pm
+##### Time 2:35pm
 
-#### Location EIT Taradale
+##### Location EIT Taradale
 
 | Sponsor: | Name of Group: | Group Lead: | Note taker: |
 | --- | --- | --- | --- |
