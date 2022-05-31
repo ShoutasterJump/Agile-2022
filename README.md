@@ -1,3 +1,8 @@
+# Agile 2022#
+
+This is our ReadMe documentation
+
+
 
 # **Practical Project - Iteration 1**
 
@@ -469,6 +474,12 @@ N/A
 | 6 | 26/4/22 | Scope creep | ![Imgur](https://i.imgur.com/aXQGoF3.png) | ![Imgur](https://i.imgur.com/vp85MIO.png) | ![Imgur](https://i.imgur.com/vp85MIO.png) | Project manager | Keep record of scope using charter or something similar and constantly refer back to it | Open | [link](https://www.projectmanager.com/blog/project-charter) |
 | 7 | 3/5/22 | Stakeholder action delays the project | ![Imgur](https://i.imgur.com/BBMpizG.png) | ![Imgur](https://i.imgur.com/vp85MIO.png) | ![Imgur](https://i.imgur.com/vp85MIO.png) | Project manager | Create and receive approval for a management plan based on stakeholder importance, check regularly to ensure it is managed well | Open | [link](https://www.projectengineer.net/how-to-develop-a-stakeholder-engagement-plan/) |
 | 8 | 10/3/22 | Key people fall ill/ are unavailable | ![Imgur](https://i.imgur.com/BBMpizG.png) | ![Imgur](https://i.imgur.com/BBMpizG.png) | ![Imgur](https://i.imgur.com/BBMpizG.png) | Project manager | Create a work from home plan | Open |[link](https://www.emerald.com/insight/content/doi/10.1108/JWAM-01-2021-0003/full/html#:~:text=Furthermore%2C%20five%20critical%20factors%20for,WFH%20mode%2C%20and%20organisational%20support.)|
+
+---
+
+## Intergrated Webiste##
+
+Here is a link to our Github pages: [Github Page](https://shoutasterjump.github.io/Agile-2022/)
 
 ---
 
